@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukeharby
 - 👀 I’m interested in retiring
-- 🌱 I’m currently looking into Vue
+- 🌱 I’m currently looking into Svelte
 - 🥶 I did a cool thing with P5JS recently 
 - 📫 How to reach me https://slackwise.org.uk
 
