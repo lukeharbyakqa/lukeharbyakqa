@@ -4,9 +4,7 @@
 - 🥶 I did a cool thing with P5JS recently 
 - 📫 How to reach me https://slackwise.org.uk
 
-  .. image:: http://unmaintained.tech/badge.svg
-  :target: http://unmaintained.tech
-  :alt: No Maintenance Intended
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 <!---
 lukeharbyakqa/lukeharbyakqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
